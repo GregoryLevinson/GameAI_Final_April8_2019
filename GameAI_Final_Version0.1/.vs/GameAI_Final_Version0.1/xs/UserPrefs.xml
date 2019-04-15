@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{16D6E48B-7CA1-0EC2-7665-B63983B7D0A6}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NPC_Behaviors/BasicBehaviors/NPCYellow.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NPC_Behaviors/BasicBehaviors/NPCGray.cs">
     <Files>
       <File FileName="Assets/Scripts/NPC_Behaviors/BasicBehaviors/NPCRed.cs" Line="51" Column="12" />
       <File FileName="Assets/Scripts/Trigger_AudioForZones/Trigger_AudioForPlayerEnterZone1.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/NPC_Behaviors/BasicBehaviors/NPCYellow.cs" Line="20" Column="2" />
+      <File FileName="Assets/Scripts/NPC_Behaviors/BasicBehaviors/NPCGray.cs" Line="39" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,7 +14,7 @@
               <Node name="Scripts" expanded="True">
                 <Node name="NPC_Behaviors" expanded="True">
                   <Node name="BasicBehaviors" expanded="True">
-                    <Node name="NPCYellow.cs" selected="True" />
+                    <Node name="NPCGray.cs" selected="True" />
                   </Node>
                 </Node>
                 <Node name="Trigger_AudioForZones" expanded="True" />
@@ -26,7 +27,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="51f940cd-704c-4d6e-a04f-47ef65d3fc4c" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="939b52cf-046c-4e20-97cf-898a563fd43e" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
