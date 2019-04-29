@@ -18,10 +18,25 @@ public class NPCRed : MonoBehaviour
 
     private void Update()
     {
+        Debug.Log("NPC RED start follow");
         transform.LookAt(targetToBeFollowed);
         transform.Translate(Vector3.forward * followSpeed * Time.deltaTime);
         Debug.Log("entered zone 2 RED");
     }
+
+    //void OnTriggerEnter(Collider collision)
+    //{
+    //    if (collision.gameObject.tag == "Player")
+    //    {
+           
+    //    }
+    //    else
+    //    {
+    //        Debug.Log("Player has not entered new zone");
+    //        Debug.Log("NPC RED stop follow");
+    //    }
+    //}
+
 }
 
 

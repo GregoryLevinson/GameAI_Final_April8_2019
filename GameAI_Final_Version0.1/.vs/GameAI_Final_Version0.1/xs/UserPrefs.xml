@@ -1,10 +1,12 @@
 ﻿<Properties StartupConfiguration="{16D6E48B-7CA1-0EC2-7665-B63983B7D0A6}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NPC_Behaviors/BasicBehaviors/NPCGray.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NPC_Behaviors/BasicBehaviors/NPCYellow.cs">
     <Files>
-      <File FileName="Assets/Scripts/NPC_Behaviors/BasicBehaviors/NPCRed.cs" Line="51" Column="12" />
+      <File FileName="Assets/Scripts/NPC_Behaviors/BasicBehaviors/NPCRed.cs" Line="23" Column="77" />
       <File FileName="Assets/Scripts/Trigger_AudioForZones/Trigger_AudioForPlayerEnterZone1.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/NPC_Behaviors/BasicBehaviors/NPCYellow.cs" Line="20" Column="2" />
-      <File FileName="Assets/Scripts/NPC_Behaviors/BasicBehaviors/NPCGray.cs" Line="39" Column="17" />
+      <File FileName="Assets/Scripts/NPC_Behaviors/BasicBehaviors/NPCYellow.cs" Line="18" Column="21" />
+      <File FileName="Assets/Scripts/NPC_Behaviors/BasicBehaviors/NPCGray.cs" Line="29" Column="1" />
+      <File FileName="Assets/Scripts/Detect_PlayerEnterZone/PlayerPosiiton_Zone1.cs" Line="7" Column="53" />
+      <File FileName="Assets/Scripts/NPC_Behaviors/BasicBehaviors/NPCBlue.cs" Line="36" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,9 +14,10 @@
           <Node name="GameAI_Final_Version0.1" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
+                <Node name="Detect_PlayerEnterZone" expanded="True" />
                 <Node name="NPC_Behaviors" expanded="True">
                   <Node name="BasicBehaviors" expanded="True">
-                    <Node name="NPCGray.cs" selected="True" />
+                    <Node name="NPCYellow.cs" selected="True" />
                   </Node>
                 </Node>
                 <Node name="Trigger_AudioForZones" expanded="True" />
@@ -27,7 +30,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="939b52cf-046c-4e20-97cf-898a563fd43e" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f9242163-39b0-4c99-90cd-c75ebbc9fb79" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
